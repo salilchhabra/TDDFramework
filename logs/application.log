@@ -1,0 +1,6 @@
+[INFO ] 2021-02-19 16:41:05.498 BaseTest:193 - login with username standard_user
+[INFO ] 2021-02-19 16:41:07.192 BaseTest:193 - login with password secret_sauce
+[INFO ] 2021-02-19 16:41:08.288 BaseTest:179 - login button pressed
+[INFO ] 2021-02-19 16:41:23.535 BaseTest:193 - login with username standard_user
+[INFO ] 2021-02-19 16:41:25.255 BaseTest:193 - login with password secret_sauce
+[INFO ] 2021-02-19 16:41:26.421 BaseTest:179 - login button pressed

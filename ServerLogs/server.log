@@ -1,0 +1,5 @@
+2021-02-19 11:10:37:813 [Appium] Welcome to Appium v1.20.2
+2021-02-19 11:10:37:814 [Appium] Non-default server args:
+2021-02-19 11:10:37:814 [Appium]   sessionOverride: true
+2021-02-19 11:10:37:815 [Appium]   logFile: /Users/salilchhabra/IdeaProjects/TDDFramework/ServerLogs/server.log
+2021-02-19 11:10:37:834 [HTTP] Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.

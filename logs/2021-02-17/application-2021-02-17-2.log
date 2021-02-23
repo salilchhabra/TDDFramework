@@ -1,0 +1,50 @@
+[INFO ] 2021-02-17 14:01:12.575 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-17 14:01:20.631 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-17 14:01:25.971 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-17 14:01:31.175 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-17 14:34:31.981 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-17 14:34:40.374 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-17 14:34:45.655 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-17 14:34:50.967 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-17 14:35:29.752 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-17 14:35:36.775 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-17 14:35:42.063 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-17 14:35:47.103 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-17 14:42:01.990 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-17 14:42:08.763 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-17 14:42:13.782 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-17 14:42:19.142 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-17 14:49:17.343 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-17 14:49:24.624 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-17 14:49:29.716 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-17 14:49:34.795 LoginTests:84 - Actual product title:PRODUCTS

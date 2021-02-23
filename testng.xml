@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="false">
+    <listeners>
+        <listener class-name="listeners.TestListener"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="Emulator">
+        <parameter name="emulator" value="true"></parameter>
+        <parameter name="platformName" value="Android"></parameter>
+        <parameter name="udid" value="emulator-5554"></parameter>
+        <parameter name="deviceName" value="Pixel_2_API_27"></parameter>
+        <parameter name="systemPort" value="10000"></parameter>
+        <parameter name="chromeDriverPort" value="11000"></parameter>
+        <classes>
+          <!--  <class name="com.qa.test.LoginTests">
+                &lt;!&ndash;  <methods>
+                      <include name="invalidUserName"></include>
+                  </methods>&ndash;&gt;
+            </class>-->
+            <class name="com.qa.test.ProductTests">
+            </class>
+        </classes>
+    </test>
+    <!--<test verbose="2" preserve-order="true" name="Android">
+        <parameter name="emulator" value="false"></parameter>
+        <parameter name="platformName" value="Android"></parameter>
+        <parameter name="udid" value="8c7ed88a"></parameter>
+        <parameter name="deviceName" value="Any Android Device"></parameter>
+        <parameter name="systemPort" value="10000"></parameter>
+        <parameter name="chromeDriverPort" value="11000"></parameter>
+        <classes>
+            <class name="com.qa.test.LoginTests">
+                &lt;!&ndash;  <methods>
+                      <include name="invalidUserName"></include>
+                  </methods>&ndash;&gt;
+            </class>
+            &lt;!&ndash;            <class name="com.qa.test.ProductTests">&ndash;&gt;
+            &lt;!&ndash;            </class>&ndash;&gt;
+        </classes>
+    </test>-->
+</suite>

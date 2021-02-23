@@ -1,0 +1,19 @@
+17:Android:Pixel_2_API_27:com.qa.test.LoginTests:
+****** starting test:invalidPassword******
+
+17:Android:Pixel_2_API_27:pages.LoginPage:login with username standard_user
+17:Android:Pixel_2_API_27:pages.LoginPage:login with password invalidpassword
+17:Android:Pixel_2_API_27:pages.LoginPage:login button pressed
+17:Android:Pixel_2_API_27:com.qa.test.LoginTests:
+****** starting test:invalidUserName******
+
+17:Android:Pixel_2_API_27:pages.LoginPage:login with username invalidusername
+17:Android:Pixel_2_API_27:pages.LoginPage:login with password secret_sauce
+17:Android:Pixel_2_API_27:pages.LoginPage:login button pressed
+17:Android:Pixel_2_API_27:com.qa.test.LoginTests:
+****** starting test:successfulLogin******
+
+17:Android:Pixel_2_API_27:pages.LoginPage:login with username standard_user
+17:Android:Pixel_2_API_27:pages.LoginPage:login with password secret_sauce
+17:Android:Pixel_2_API_27:pages.LoginPage:login button pressed
+17:Android:Pixel_2_API_27:com.qa.test.LoginTests:Actual product title:PRODUCTS

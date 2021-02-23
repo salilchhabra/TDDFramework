@@ -1,0 +1,177 @@
+[INFO ] 2021-02-18 12:57:20.939 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-18 12:57:26.829 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-18 12:57:31.742 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-18 12:57:36.181 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-18 13:01:27.278 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-18 13:01:33.027 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-18 13:01:38.141 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-18 13:01:43.523 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-18 13:09:52.821 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-18 13:09:58.521 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-18 13:10:03.712 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-18 13:10:08.628 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-18 13:11:10.580 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-18 13:11:16.544 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-18 13:11:21.333 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-18 13:11:26.410 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-18 13:36:19.794 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-18 13:36:25.770 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-18 13:36:30.776 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-18 13:36:35.844 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-18 14:05:15.188 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-18 14:05:17.807 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-18 14:05:19.842 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-18 14:09:43.074 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-18 14:09:50.600 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-18 14:09:52.653 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-18 14:10:49.051 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-18 14:10:50.006 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:10:51.687 BaseTest:188 - login with password invalidpassword
+[INFO ] 2021-02-18 14:10:52.776 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:10:54.983 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-18 14:10:55.696 BaseTest:188 - login with username invalidusername
+[INFO ] 2021-02-18 14:10:57.346 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:10:58.409 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:11:00.518 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-18 14:11:01.359 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:11:02.987 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:11:04.068 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:11:05.721 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-18 14:27:26.577 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:30:08.879 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:31:55.264 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:33:24.358 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:34:53.340 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:36:51.554 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-18 14:36:52.513 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:36:54.216 BaseTest:188 - login with password invalidpassword
+[INFO ] 2021-02-18 14:36:55.314 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:36:57.481 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-18 14:36:58.206 BaseTest:188 - login with username invalidusername
+[INFO ] 2021-02-18 14:36:59.853 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:37:01.218 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:37:03.024 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-18 14:37:03.741 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:37:05.377 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:37:06.470 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:37:08.187 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-18 14:39:27.604 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:41:08.755 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-18 14:46:05.704 LoginTests:49 - 
+****** starting test:invalidPassword******
+
+[INFO ] 2021-02-18 14:46:06.689 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:46:08.355 BaseTest:188 - login with password invalidpassword
+[INFO ] 2021-02-18 14:46:09.447 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:46:12.123 LoginTests:49 - 
+****** starting test:invalidUserName******
+
+[INFO ] 2021-02-18 14:46:12.892 BaseTest:188 - login with username invalidusername
+[INFO ] 2021-02-18 14:46:14.560 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:46:15.627 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:46:17.161 LoginTests:49 - 
+****** starting test:successfulLogin******
+
+[INFO ] 2021-02-18 14:46:17.880 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:46:19.531 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:46:20.608 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:46:22.276 LoginTests:84 - Actual product title:PRODUCTS
+[INFO ] 2021-02-18 14:46:39.768 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:46:41.555 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:46:42.673 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:47:21.628 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:47:23.257 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:47:24.339 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:49:19.103 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:49:20.811 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:49:21.912 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:49:40.791 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:49:42.505 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:49:43.613 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:51:31.716 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:51:33.440 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:51:34.591 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:52:13.583 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:52:15.209 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:52:16.265 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:54:19.808 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:54:21.508 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:54:22.597 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:54:36.009 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:54:37.638 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:54:38.726 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:55:37.325 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:55:39.013 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:55:40.140 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 14:55:54.832 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 14:55:55.985 BaseTest:188 - login with password secret_sauce
+[INFO ] 2021-02-18 14:55:57.049 BaseTest:177 - login button pressed
+[INFO ] 2021-02-18 15:00:51.200 BaseTest:188 - login with username standard_user
+[INFO ] 2021-02-18 15:01:56.261 BaseTest:193 - login with username standard_user
+[INFO ] 2021-02-18 15:01:57.959 BaseTest:193 - login with password secret_sauce
+[INFO ] 2021-02-18 15:01:59.051 BaseTest:179 - login button pressed
+[INFO ] 2021-02-18 15:02:13.141 BaseTest:193 - login with username standard_user
+[INFO ] 2021-02-18 15:02:14.796 BaseTest:193 - login with password secret_sauce
+[INFO ] 2021-02-18 15:02:15.878 BaseTest:179 - login button pressed
+[INFO ] 2021-02-18 15:04:05.350 BaseTest:193 - login with username standard_user
+[INFO ] 2021-02-18 15:04:07.043 BaseTest:193 - login with password secret_sauce
+[INFO ] 2021-02-18 15:04:08.140 BaseTest:179 - login button pressed
+[INFO ] 2021-02-18 15:04:22.784 BaseTest:193 - login with username standard_user
+[INFO ] 2021-02-18 15:04:24.445 BaseTest:193 - login with password secret_sauce
+[INFO ] 2021-02-18 15:04:25.501 BaseTest:179 - login button pressed

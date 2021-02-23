@@ -1,0 +1,16 @@
+[INFO ] 2021-02-17 13:48:18.308 BaseTest:87 - this is info message
+[ERROR] 2021-02-17 13:48:18.310 BaseTest:88 - this is error message
+[DEBUG] 2021-02-17 13:48:18.311 BaseTest:89 - this is debug message
+[WARN ] 2021-02-17 13:48:18.311 BaseTest:90 - this is warn message
+[INFO ] 2021-02-17 13:49:47.700 BaseTest:87 - this is info message
+[ERROR] 2021-02-17 13:49:47.703 BaseTest:88 - this is error message
+[DEBUG] 2021-02-17 13:49:47.703 BaseTest:89 - this is debug message
+[WARN ] 2021-02-17 13:49:47.703 BaseTest:90 - this is warn message
+[INFO ] 2021-02-17 13:50:39.527 BaseTest:87 - this is info message
+[ERROR] 2021-02-17 13:50:39.530 BaseTest:88 - this is error message
+[DEBUG] 2021-02-17 13:50:39.530 BaseTest:89 - this is debug message
+[WARN ] 2021-02-17 13:50:39.530 BaseTest:90 - this is warn message
+[INFO ] 2021-02-17 13:51:24.456 BaseTest:87 - this is info message
+[ERROR] 2021-02-17 13:51:24.459 BaseTest:88 - this is error message
+[DEBUG] 2021-02-17 13:51:24.459 BaseTest:89 - this is debug message
+[WARN ] 2021-02-17 13:51:24.459 BaseTest:90 - this is warn message
